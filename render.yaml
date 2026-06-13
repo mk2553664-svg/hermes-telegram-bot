@@ -1,5 +1,1 @@
-services:
-  - type: worker
-    name: hermes-telegram-bot
-    env: docker
-    plan: free
+
