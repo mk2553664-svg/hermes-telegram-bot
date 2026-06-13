@@ -11,6 +11,6 @@ services:
       - key: HERMES_HOME
         value: "/app/.hermes"
       - key: OPENROUTER_API_KEY
-        value: "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."
+        value: "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"
       - key: HERMES_MODEL
         value: "meta-llama/llama-3.3-70b:free"
